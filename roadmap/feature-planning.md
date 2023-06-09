@@ -1678,20 +1678,17 @@ List is not definitive yet. Will depend on the story/level outline.
   - **User Story:** As a player, I can use an omni-directional treadmill to
     navigate within the environment.
   - Investigating various options:
-    - "True" ODTs (https://www.infinadeck.com/)
-    - "Slidemills" (https://www.kat-vr.com/products/kat-walk-c)
-    - "Slidemills" with Anchors
-      (https://www.kat-vr.com/products/kat-walk-premium-vr-treadmill) or
-      (https://www.cyberith.com/virtualizer-elite/) or
-      (https://www.cyberith.com/virtualizer-rd-kit/)
-    - Walk-On-Spot System (https://www.kat-vr.com/products/kat-loco-s)
+    - ["True" ODTs](https://www.infinadeck.com/)
+    - ["Slidemills"](https://www.kat-vr.com/products/kat-walk-c)
+    - ["Slidemills" with Anchors](https://www.kat-vr.com/products/kat-walk-premium-vr-treadmill)
+    - [Walk-On-Spot System](https://www.kat-vr.com/products/kat-loco-s)
   - Likely would need to live compare for feel, portability, setup/teardown,
     etc.
 - VR ODT Arena
   - **Priority:** High
   - **Complexity:** High
-  - For big conference events, using a "VR Arena"
-    (https://www.kat-vr.com/pages/vr_arena).
+  - For big conference events, using a
+    [VR Arena](https://www.kat-vr.com/pages/vr_arena).
 - Menu - Settings
   - **Priority:** Critical
   - **Complexity:** Medium
